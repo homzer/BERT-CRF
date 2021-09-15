@@ -1,0 +1,14 @@
+joblib
+scikit-learn
+matplotlib
+six
+GPUtil
+tensorflow == 1.13.1
+numpy == 1.16.0
+zmq
+flask
+flask_compress
+flask_cors
+flask_json
+jieba==0.42.1
+keras == 2.2.4

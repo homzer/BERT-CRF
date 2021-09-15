@@ -1,0 +1,8 @@
+bert_cause/config/bert_model.ckpt.*
+bert_cause/config/model.ckpt*
+bert_cause/result/
+bert_theme/config/bert_model.ckpt.*
+bert_theme/config/model.ckpt*
+bert_theme/result/
+examples
+.idea
